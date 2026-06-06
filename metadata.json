@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Gestión de Cursos Virtuales",
+  "description": "Plataforma para organizar y gestionar cursos virtuales con estadísticas de avance, nivel de funcionalidad y tablero de control interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
